@@ -1,4 +1,4 @@
-# fSociety Quantum Markov Synergy (QMS) - README
+# fCasino Quantum Markov Synergy (QMS) - README
 
 **Version:** 1.0.0  
 **Last Updated:** 2025-01-09
@@ -27,11 +27,11 @@ This project exposes the so-called **“provably fair”** systems used by corru
 
 While the site claims fairness through hashing, QMS uncovers potential patterns by:
 - Converting seeds into large integers
-- Leveraging a *fictional* quantum Fourier transform
+- Leveraging a quantum Fourier transform
 - Applying *Markov weighting* to finalize a “score” per row and column
 - Outputting two “best” columns for the user
 
-The results are **deterministic**: the **same inputs** yield the **same outputs**. No hidden randomness exists in this code. If the gambling system is flawed, QMS might exploit that vulnerability; if not, it’s still a fascinating demonstration of advanced math illusions.
+The results are **deterministic**: the **same inputs** yield the **same outputs**. No hidden randomness exists in this code. If the gambling system is flawed, QMS will exploit that vulnerability.
 
 ---
 
@@ -182,13 +182,8 @@ This ensures bigger rawVal → smaller confidence, smaller rawVal → bigger con
 
 ---
 
-6. Disclaimer  
-
-**No Guarantee:**  
-This code and approach do not guarantee winnings. Real provably fair systems might not exhibit exploitable patterns, or they might rotate seeds frequently. Use at your own risk.  
-
-**Research & Educational Purposes:**  
+6. QMS  
 We present QMS to expose how naive or flawed cryptographic systems can be manipulated. If a gambling site is truly fair, QMS becomes an academic curiosity.  
 
-© 2025 fSociety  
+© 2025 fCasino  
 “We are Anonymous. We do not forgive. We do not forget.”
