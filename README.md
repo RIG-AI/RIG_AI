@@ -1,4 +1,4 @@
-# fCasino Quantum Markov Synergy (QMS) - README
+# RIG_AI Quantum Markov Synergy (QMS) - README
 
 **Version:** 1.0.0  
 **Last Updated:** 2025-01-09
@@ -185,5 +185,5 @@ This ensures bigger rawVal → smaller confidence, smaller rawVal → bigger con
 6. QMS  
 We present QMS to expose how naive or flawed cryptographic systems can be manipulated. If a gambling site is truly fair, QMS becomes an academic curiosity.  
 
-© 2025 fCasino  
+© 2025 RIG_AI  
 “We are Anonymous. We do not forgive. We do not forget.”
